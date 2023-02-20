@@ -3,6 +3,7 @@
 ## Introducción
 
 Vamos a construir una aplicación para seleccionar y buscar emisoras de radio en streaming.
+Los datos los podemos obtener de la api: http://95.179.139.106/json/stations/search?name=
 
 ## Estructuras para practicar:
     - `describe` (test suites) y `test` (tests unitarios).
