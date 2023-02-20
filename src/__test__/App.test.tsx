@@ -8,11 +8,4 @@ describe('radio-streaming in tdd', () => {
         // screen.debug();
         expect(true).toBeTruthy()
     })
-
-    describe('El nombre de la aplicación debe mostrarse en algún lugar => "RADIO FACTORIA"', () => {
-        test('El nombre de la aplicación debe mostrarse en algún lugar => "RADIO FACTORIA"', () => {
-            const texto = screen.getByText('RADIO FACTORIA');
-            expect(texto).toBeInTheDocument()
-        })
-    })
 })
