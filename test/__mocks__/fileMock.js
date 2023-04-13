@@ -1,0 +1,2 @@
+module.exports = 'test-file-stub';
+/* This is because we need to account and mock images and styling files. To start with the images, we’re going to create a mock file in a set of new folders created in the root of the project, so they act as helpers */
